@@ -19,13 +19,3 @@ class outletBuilding extends chiefBuilding{
 outletBuildingObj = new outletBuilding()
 console.log(outletBuildingObj.painKiller())
 
-
-class shop{
-    counter(){}
-    groceryCorner(){}
-    stationeryCorner(){}
-}
-
-class ravalnathShop{
-
-}
